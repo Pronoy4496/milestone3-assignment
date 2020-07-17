@@ -49,8 +49,8 @@ function feetToMile(feet){
          return "Negative floors don't need bricks."
      }
  }
- var result = brickCalculator(23);
- console.log(result);
+//  var result = brickCalculator(23);
+//  console.log(result);
  
  
  function tinyFriend(friendsName){
